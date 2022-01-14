@@ -4,9 +4,8 @@
 - 🌱 Estudando #JavaScript!
 - ✉️ Contate-me no email: marianamchaves@hotmail.com
 - ❤️ Sugestões e dicas serão sempre bem vindas!
-
 ---------------------------------------------------
-
+### Hello! I'm Mariana Paez 👋
 - 🔭 Today i work as a support analyst
 - 🌱 Studying #JavaScript!
 - ✉️ Contact me via email: marianamchaves@hotmail.com
