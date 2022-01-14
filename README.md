@@ -5,6 +5,7 @@
 - ✉️ Contate-me no email: marianamchaves@hotmail.com
 - ❤️ Sugestões e dicas serão sempre bem vindas!
 
+---------------------------------------------------
 
 - 🔭 Today i work as a support analyst
 - 🌱 Studying #JavaScript!
